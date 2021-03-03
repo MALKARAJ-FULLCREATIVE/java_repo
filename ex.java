@@ -15,7 +15,9 @@ class new{
 
                                  //again edited from malkaraj-fullcreative
 				 System.out.printf("  ");
+                                  // once again exited
+				  System.out.println("------------------------");
 
-	}                        
+}                        
 
 }
