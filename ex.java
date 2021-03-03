@@ -5,7 +5,7 @@ class new{
                                 //System.out.println("George");
 				System.out.println("George");
 
-				System.out.println("Malkaraj");
+				aSystem.out.println("Malkaraj");
                                  //again edited
    	}
 }
